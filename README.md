@@ -1,6 +1,18 @@
 # -Sales_Performance_Analysis_for_a_Telecom_Company_USA
 A Data Analysis Project that Analysed  the sales performance of a Telecommunication  company Based in the United State. The company’s sales transaction data generated over the past years was used for this  analysis.
 
+# Table of content
+[Project Overview](project-overview)<br> <br> 
+[Data Sources](data-sources) <br> <br>
+[Data Analysis Tools Used](data-analysis-tools-used) <br> <br>
+[Data Collection](data-collection) <br> <br>
+[Data Cleaning and Formatting](data-cleaning-and-formatting) <br> <br>
+[Loading Data into Power BI](loading-data-into-power-bi) <br> <br>
+[Exploratory Data Analysis (EDA)](exploratory-data-analysis-(eda)) <br> <br>
+[Data Analysis](data-analysis) <br> <br>
+[Results and Findings](results-and-indings) <br> <br>
+[Recommendations](recommendations) <br> <br>
+
 # Project Overview: 
 This Data Analysis Project aims to provide  insights into the sales performance of a Telecommunication  company Based in the United State.
 
@@ -53,14 +65,15 @@ The results were downloaded and saved as  the following csv files below: <br> <b
 - Database Inspection : In the initial data collection phase , I  inspected the company’s database using SQL code  to check for missing data (NULL) in each of the tables in the company’s database.
 - I extracted the  required data for the purpose of the data analysis project using SQL complex query and SQL data aggregation .  
 
-# Data Cleaning/Formatting: 
+# Data Cleaning and Formatting: 
 - I used SQL codes to clean and format the data to conform to the required data format.
 - I downloaded the result of my SQL Queries from the company’s database  as a csv file to my PC. 
 
 # Loading Data into Power BI:
 - I loaded the downloaded csv files into Power BI for the purpose of Data Visualization and Building interactive dashboard/report.
 
-# Exploratory Data Analysis (EDA): EDA involves exploring the sales data in order to answer
+# Exploratory Data Analysis (EDA): 
+EDA involves exploring the sales data in order to answer
 some key questions such as : 
 - Who are the top 10 customers of the company ?
 - What particular products are the Top customers buying  ? 
