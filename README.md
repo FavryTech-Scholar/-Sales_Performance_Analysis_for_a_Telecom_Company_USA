@@ -165,7 +165,7 @@ The Analysis Results is summarised as follows:
 # Recommendations: 
 Based on the findings/results of this  data analysis project, I strongly  recommend the following actions : 
 - The company should focus on expanding and promoting the smartphone product category. 
-- The company should invest in marketing and promotions during peak sales season to maximise revenue. 
+- The company should invest in marketing and promotions during peak sales season to maximise Revenue. 
 - The company should implement a customer segmentation strategy to target smartphones and smartwatches customers effectively. 
 - The company should allocate more budget and resources to their Direct sales channel to maximise revenue. 
 - The company should invest more resources  in their Northeast Region of operation  to maximise revenue. 
